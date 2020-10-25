@@ -1,5 +1,10 @@
 ### Hi there 👋
 [![zfitness's github stats](https://github-readme-stats.vercel.app/api?username=zfitness)](https://github.com/zfitness)
+
+
+![image](https://github.com/youtiaoguagua/youtiaoguagua/blob/master/dino.gif)
+
+
 <!--
 **zFitness/zfitness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
