@@ -2,7 +2,6 @@
 [![zfitness's github stats](https://github-readme-stats.vercel.app/api?username=zfitness)](https://github.com/zfitness)
 
 
-![image](https://github.com/youtiaoguagua/youtiaoguagua/blob/master/dino.gif)
 
 
 <!--
