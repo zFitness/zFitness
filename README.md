@@ -24,16 +24,14 @@
 
 
 ### About Me!  
-* A Web engineer
-* Enjoy Coding, Dota2 and Fitness
-* My-Email: zfitness@163.com
-  
 
-<br/>  
-
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
+
+- A Web engineer
+
+- Enjoy Coding, Dota2 and Fitness
+
+- My-Email: zfitness@163.com
 
 - 🔭 I’m currently working on [Tencent](https://github.com/Tencent)  
   
