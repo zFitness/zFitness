@@ -1,7 +1,20 @@
 ### Hi there 👋
-[![zfitness's github stats](https://github-readme-stats.vercel.app/api?username=zfitness)](https://github.com/zfitness)
+My name is zfitness.
 
+* 💻 A Web engineer.
+* 🦄 Enjoy Typescript, React and NodeJs.
+* My-Email: zfitness@163.com
 
+### My GitHub Stats
+
+<p>
+	<a href="https://github.com/peterroe"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=zfitness&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
+	<a href="https://github.com/peterroe"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfitness&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zfitness&&style=flat-square" align="center" />
+</div> 
 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
