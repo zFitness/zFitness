@@ -33,10 +33,6 @@
 
 - My-Email: zfitness@163.com
 
-- 🔭 I’m currently working on [Tencent](https://github.com/Tencent)  
-  
-
-- 🌱 I’m currently learning C++ and WebAssembly  
 
 
 
