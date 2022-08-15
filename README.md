@@ -29,7 +29,7 @@
 
 - A Web engineer
 
-- Enjoy Coding, Dota2 and Fitness
+- Enjoy Coding and Fitness
 
 - My-Email: zfitness@163.com
 
